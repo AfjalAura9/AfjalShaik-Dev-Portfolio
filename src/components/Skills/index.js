@@ -97,7 +97,7 @@ const SkillItem = styled.div`
   border: 1px solid ${({ theme }) => theme.text_primary + 80};
   border-radius: 12px;
   padding: 12px 16px;
-/*   display: flex; */
+  display: flex;
   align-items: center;
   justify-content: center;
   gap: 8px;
