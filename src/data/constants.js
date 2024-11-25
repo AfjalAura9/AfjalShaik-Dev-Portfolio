@@ -437,7 +437,7 @@ export const projects = [
     date: "May 2024 - Nov 2024",
     description: "A responsive and interactive portfolio web application built using React.js, showcasing professional achievements, technical skills, and projects. Features a clean UI, dynamic content, project gallery, and seamless navigation. Deployed on Vercel for fast, secure access, highlighting expertise in frontend development.",
     image: "https://i.imgur.com/1emOrWP.jpeg",
-    tags: ["HTML", "CSS", "Javascript", "React.js", "Github", "Netlify"],
+    tags: ["HTML", "CSS", "Javascript", "React.js", "Github", "Vercel"],
     category: "web app",
   },
   {
