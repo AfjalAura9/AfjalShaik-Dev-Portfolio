@@ -4,9 +4,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 ## Some Images:
 
-![Screenshot 1](/Portfolio_landing_page.jpg)
-
-### Weblink: [Live Website](https://your-live-website-link)
+![Screenshot 1](/images/Portfolio_landing_page.jpg)
 
 ## Table of Contents
 
@@ -93,7 +91,6 @@ Feel free to connect with me through any of the following channels:
 
 - [LinkedIn](https://www.linkedin.com/in/afjal-shaik-8133281b4/)
 - [Email](mailto:afjalshaiktechy@gmail.com)
-- [Personal Website](https://afjalshaik.com)
 
 ---
 
