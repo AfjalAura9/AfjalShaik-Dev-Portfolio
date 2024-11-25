@@ -434,8 +434,8 @@ export const projects = [
   {
     id: 9,
     title: "Portfolio",
-    date: "Nov 2024 - Dec 2024",
-    description: "Coming soon......",
+    date: "May 2024 - Nov 2024",
+    description: "A responsive and interactive portfolio web application built using React.js, showcasing professional achievements, technical skills, and projects. Features a clean UI, dynamic content, project gallery, and seamless navigation. Deployed on Vercel for fast, secure access, highlighting expertise in frontend development.",
     image: "https://i.imgur.com/1emOrWP.jpeg",
     tags: ["HTML", "CSS", "Javascript", "React.js", "Github", "Netlify"],
     category: "web app",
@@ -443,7 +443,7 @@ export const projects = [
   {
     id: 9,
     title: "Solar Adventure",
-    date: "Aug 2020 - Dec 2020",
+    date: "Mar 2024 - May 2024",
     description:
       "Solar Adventure is an interactive web app that allows users to explore the solar system 🚀! Discover planets, moons, and other celestial bodies with beautiful visuals and educational content 🌍✨. Perfect for space enthusiasts, learners, and curious minds 🌟.",
     image: "https://i.imgur.com/H2pK0E7.jpeg",
@@ -455,7 +455,7 @@ export const projects = [
   {
     id: 9,
     title: "Frontend Quiz Application",
-    date: "Aug 2021 - Dec 2021",
+    date: "Jan 2024 - Feb 2024",
     description:
       "This is a web-based quiz application that allows users to select a programming language (HTML, CSS, or JavaScript) and take a quiz based on their selection. The quiz provides real-time feedback, a timer for each question, and displays the user's score at the end of the quiz.",
     image: "https://i.imgur.com/wGix6fU.jpeg",
@@ -463,22 +463,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/AfjalAura9/Frontend-Quiz-Web-Application",
     webapp: "https://frontendquizafjalaura9.netlify.app/",
-  },
-  {
-    id: 9,
-    title: "Celebrity Interaction UI",
-    date: "Jan 2023 - Aug 2023",
-    description:
-      "Celebrity UI is a user-friendly mobile app designed to connect users with their favorite celebrities, influencers, and artists. It features categorized profiles (Bollywood, singers, YouTubers), personalized favorites, premium membership options, and seamless navigation for an engaging experience.",
-    image: "https://i.imgur.com/RujZEUE.png",
-    tags: [
-      "UI Design Principles",
-      "User Research",
-      "Wireframing",
-      "Prototyping",
-      "Figma",
-    ],
-    category: "UI/UX",
   },
   {
     id: 9,
@@ -505,6 +489,22 @@ export const projects = [
         /* github: "https://github.com/upasana0710", */
       },
     ],
+  },
+  {
+    id: 9,
+    title: "Celebrity Interaction UI",
+    date: "Jan 2023 - Aug 2023",
+    description:
+      "Celebrity UI is a user-friendly mobile app designed to connect users with their favorite celebrities, influencers, and artists. It features categorized profiles (Bollywood, singers, YouTubers), personalized favorites, premium membership options, and seamless navigation for an engaging experience.",
+    image: "https://i.imgur.com/RujZEUE.png",
+    tags: [
+      "UI Design Principles",
+      "User Research",
+      "Wireframing",
+      "Prototyping",
+      "Figma",
+    ],
+    category: "UI/UX",
   },
   /*   {
       id: 0,
