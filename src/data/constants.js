@@ -439,6 +439,8 @@ export const projects = [
     image: "https://i.imgur.com/1emOrWP.jpeg",
     tags: ["HTML", "CSS", "Javascript", "React.js", "Github", "Vercel"],
     category: "web app",
+    github: "https://github.com/AfjalAura9/AfjalShaik-Dev-Portfolio",
+    webapp: "https://afjalaura9-dev-portfolio.vercel.app/",
   },
   {
     id: 9,
