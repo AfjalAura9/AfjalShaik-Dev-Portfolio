@@ -5,7 +5,7 @@ export const Bio = {
     "Motivated and adaptable Computer Science graduate seeking an entry-level role in cybersecurity and full-stack development. Possess a strong foundation in cybersecurity practices, web development. Eager to apply my skills in creating impactful digital solutions while learning from industry professionals.",
   github: "https://github.com/AfjalAura9",
   resume:
-    "https://drive.google.com/file/d/1HNCuU_tzIZcADsDgYFP4eDbCXyvXd3iJ/view?usp=drive_link",
+    "https://drive.google.com/file/d/1uiMSeYBaQWqWEamxYA2LRwL4FHEd0dB_/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/afjal-shaik-8133281b4/",
 };
 
