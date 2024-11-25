@@ -6,6 +6,8 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 ![Screenshot 1](/images/Portfolio_landing_page.jpg)
 
+### Weblink: [Live Website](https://afjalaura9-dev-portfolio.vercel.app/)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
