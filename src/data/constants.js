@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Afjal Shaik",
-  roles: ["Cybersecurity Entusiast", "Frontend Developer", "Visual Designer"],
+  roles: ["Frontend Developer", "Cybersecurity Entusiast", "Visual Designer"],
   description:
     "Motivated and adaptable Computer Science graduate seeking an entry-level role in cybersecurity and full-stack development. Possess a strong foundation in cybersecurity practices, web development. Eager to apply my skills in creating impactful digital solutions while learning from industry professionals.",
   github: "https://github.com/AfjalAura9",
