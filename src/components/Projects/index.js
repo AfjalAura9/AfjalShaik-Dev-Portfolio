@@ -29,7 +29,8 @@ const Projects = ({ openModal, setOpenModal }) => {
 
         <ToggleButtonGroup>
           {toggle === "all" ? (
-            <ToggleButton active value="all" onClick={() => setToggle("all")}>
+            <ToggleButton 
+            active value="all" onClick={() => setToggle("all")}>
               All
             </ToggleButton>
           ) : (
@@ -68,8 +69,8 @@ const Projects = ({ openModal, setOpenModal }) => {
               CYBERSECURITY
             </ToggleButton>
           )}
-          <Divider />
-          {toggle === "UI/UX" ? (
+          {/* <Divider /> */}
+          {/* {toggle === "UI/UX" ? (
             <ToggleButton
               active
               value="UI/UX"
@@ -81,7 +82,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             <ToggleButton value="UI/UX" onClick={() => setToggle("UI/UX")}>
               UI/UX
             </ToggleButton>
-          )}
+          )} */}
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === "all" &&

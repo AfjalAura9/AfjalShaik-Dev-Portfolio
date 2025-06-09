@@ -14,8 +14,9 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to='/'>
-          <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-          <img src={logo} alt="Logo" style={{ height: '3rem', width: 'auto' }} /><Span>Afjal Shaik</Span>
+          <a href="/" style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20', cursor: 'pointer' }}>
+            <img src={logo} alt="Logo" style={{ height: '3rem', width: 'auto' }} />
+            <Span>Afjal Shaik</Span>
           </a>
         </NavLogo>
         <MobileIcon>
